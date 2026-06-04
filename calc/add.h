@@ -1,3 +1,4 @@
 #pragma once
 
-int add(int a, int b);
+//add.h
+int add(int, int);
